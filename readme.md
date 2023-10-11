@@ -1,0 +1,1 @@
+This is a basic implementation of a CRUD REST API in Golang using Gin as the web framework and GORM as the ORM library, as taught on the [CodingwithRobby](https://www.youtube.com/@codingwithrobby) YouTube channel. It can be expanded to more advanced CRUD implementations and other features, such as authentication, authorization, and caching.
